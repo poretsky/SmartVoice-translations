@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>Additional
+<resources>
     <string name="tts_settings_label">Nastavení SmartVoice</string>
     <string name="pref_voices">Vybrat preferovaný hlas podle jazyka</string>
     <string name="pref_voices_extra">Další přiřazení hlasu</string>
