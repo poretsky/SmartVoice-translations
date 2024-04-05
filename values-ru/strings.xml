@@ -24,7 +24,7 @@
     <string name="voices_assignment">Выбор голосов</string>
     <string name="autolang_settings">Настройка автоматического переключения языка</string>
     <string name="language_detection_order_title">Порядок распознавания языков</string>
-    <string name="language_detection_order_explanation">Список языков обрабатывается сверху вниз.\nЩелкните по языку, чтобы переместить его в начало списка.</string>
+    <string name="language_detection_order_explanation">Список языков обрабатывается сверху вниз.\nЩёлкните по языку, чтобы переместить его в начало списка.</string>
     <string name="no_selections">Ничего не выбрано</string>
     <string name="one_voice_per_message_title">Использовать единый голос для целого сообщения</string>
     <string name="use_only_default_or_requested_voice_title">Использовать только голос по умолчанию или по запросу клиента</string>
