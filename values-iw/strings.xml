@@ -2,7 +2,6 @@
 <resources>
     <string name="tts_settings_label">הגדרות SmartVoice</string>
     <string name="pref_voices">בחר קול מועדף לשפה</string>
-    <string name="pref_voices_extra">נוספים</string>
     <string name="pref_languages_auto">זיהוי שפות אוטומטי על פי סוג טקסט</string>
     <string name="pref_language_this">בחר קול מועדף עבור שפה זו</string>
     <string name="volume_setting">עוצמה</string>

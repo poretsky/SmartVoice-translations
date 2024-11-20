@@ -2,7 +2,6 @@
 <resources>
     <string name="tts_settings_label">Postavke SmartVoice</string>
     <string name="pref_voices">Odaberite glas za svaki jezik</string>
-    <string name="pref_voices_extra">Dodatno</string>
     <string name="pref_languages_auto">Automatsko otkrivanje jezika ovisno o prirodi teksta</string>
     <string name="pref_language_this">označava preferirani glas za ovaj jezik</string>
     <string name="volume_setting">Glasnoća</string>

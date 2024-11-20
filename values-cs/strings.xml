@@ -2,7 +2,6 @@
 <resources>
     <string name="tts_settings_label">Nastavení SmartVoice</string>
     <string name="pref_voices">Vybrat preferovaný hlas podle jazyka</string>
-    <string name="pref_voices_extra">Další přiřazení hlasu</string>
     <string name="pref_languages_auto">Autodetekce jazyka podle druhu textu</string>
     <string name="pref_language_this">Vybrat preferovaný hlas pro tento jazyk</string>
     <string name="volume_setting">Hlasitost</string>

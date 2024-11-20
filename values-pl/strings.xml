@@ -2,7 +2,6 @@
 <resources>
     <string name="tts_settings_label">Ustawienia SmartVoice</string>
     <string name="pref_voices">Wybierz głos dla każdego języka</string>
-    <string name="pref_voices_extra">Dodatkowe</string>
     <string name="pref_languages_auto">Automatyczne wykrywanie języka zależne od natury tekstu</string>
     <string name="pref_language_this">wybiera głos dla danego języka</string>
     <string name="volume_setting">Głośność</string>

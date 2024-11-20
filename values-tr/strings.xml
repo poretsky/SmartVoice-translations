@@ -2,7 +2,6 @@
 <resources>
     <string name="tts_settings_label">SmartVoice Ayarları</string>
     <string name="pref_voices">Dil için tercih ettiğiniz sesi seçin</string>
-    <string name="pref_voices_extra">Ek</string>
     <string name="pref_languages_auto">Metnin özelliğine göre otomatik dil tanıma</string>
     <string name="pref_language_this">Bu dil için tercih ettiğiniz sesi seçin</string>
     <string name="volume_setting">Ses seviyesi</string>

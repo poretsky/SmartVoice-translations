@@ -2,7 +2,6 @@
 <resources>
     <string name="tts_settings_label">SmartVoice 設定</string>
     <string name="pref_voices">選擇每種語言的首選語音</string>
-    <string name="pref_voices_extra">額外的</string>
     <string name="pref_languages_auto">根據文字性質自動偵測語言</string>
     <string name="pref_language_this">選擇該語言的首選語音</string>
     <string name="volume_setting">音量</string>
