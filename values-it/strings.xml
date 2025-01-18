@@ -12,7 +12,7 @@
     <string name="use_default_locale_title">Preferire la lingua corrente di sistema</string>
     <string name="latinic_fallback_title">La voce preferibile per pronunciare scrittura latina</string>
     <string name="cyrillic_fallback_title">La voce preferibile per pronunciare scrittura cirillica</string>
-    <string name="cjk_fallback_title">La voce preferibile per pronunciare CJK ideografia</string>
+    <string name="cjk_fallback_title">La voce preferibile per pronunciare scrittura dell'Asia orientale</string>
     <string name="numeric_language_title">La voce preferibile per pronunciare i numeri</string>
     <string name="no_preferences">Senza preferenze</string>
     <string name="system_choice">Sistema</string>
@@ -46,7 +46,7 @@
     <string name="action_refresh_voices_list">Ricaricare la lista di voci</string>
     <string name="latinics">Scrittura latina</string>
     <string name="cyrillics">Scrittura cirillica</string>
-    <string name="cjk">CJK</string>
+    <string name="cjk">Scrittura dell'Asia orientale</string>
     <string name="all">Tutto</string>
     <string name="notification_channel_description">Il canale di notifica di SmartVoice</string>
     <string name="intonation_setting">Espressività</string>
