@@ -48,7 +48,7 @@
     <string name="cyrillics">Кирилл хәрефләре</string>
     <string name="cjk">Көнчыгыш Азия</string>
     <string name="all">Барысы</string>
-    <string name="notification_channel_description">SmartVoice'ның Хәбәрләштерү Каналы</string>
+    <string name="notification_channel_description">SmartVoice\'ның Хәбәрләштерү Каналы</string>
     <string name="intonation_setting">Экспрессивлык (Хис-тойгы)</string>
     <string name="interclause_gap_setting">Җөмләләр арасындагы пауза озынлыгы</string>
     <string name="pref_decimal_point_title">Сан эчендәге ноктаны унлык аергыч итеп эшкәртү</string>
