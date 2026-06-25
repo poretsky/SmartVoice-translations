@@ -12,7 +12,7 @@
     <string name="use_default_locale_title">Предпочитать текущий язык интерфейса</string>
     <string name="latinic_fallback_title">Предпочтительный голос для произношения латиницы</string>
     <string name="cyrillic_fallback_title">Предпочтительный голос для произношения кириллицы</string>
-    <string name="cjk_fallback_title">Предпочтительный голос для произношения восточно-азиатской идеографии</string>
+    <string name="cjk_fallback_title">Предпочтительный голос для произношения восточноазиатской идеографии</string>
     <string name="numeric_language_title">Предпочтительный голос для произношения чисел</string>
     <string name="no_preferences">Нет предпочтений</string>
     <string name="system_choice">Системный выбор</string>
@@ -46,7 +46,7 @@
     <string name="action_refresh_voices_list">Обновить список голосов</string>
     <string name="latinics">Латиница</string>
     <string name="cyrillics">Кириллица</string>
-    <string name="cjk">Восточно-азиатская идеография</string>
+    <string name="cjk">Восточноазиатская идеография</string>
     <string name="all">Всё</string>
     <string name="notification_channel_description">Канал уведомлений SmartVoice</string>
     <string name="intonation_setting">Выразительность</string>
