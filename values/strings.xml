@@ -10,8 +10,8 @@
     <string name="vx_path_setting">Vocalizer Expressive voices data folder</string>
     <string name="log_text_title">Log pronounced text</string>
     <string name="use_default_locale_title">Prefer current interface language</string>
-    <string name="latinic_fallback_title">Preferred latinic letters pronunciation voice</string>
-    <string name="cyrillic_fallback_title">Preferred cyrillic letters pronunciation voice</string>
+    <string name="latinic_fallback_title">Preferred Latin letters pronunciation voice</string>
+    <string name="cyrillic_fallback_title">Preferred Cyrillic letters pronunciation voice</string>
     <string name="cjk_fallback_title">Preferred East Asian ideography pronunciation voice</string>
     <string name="numeric_language_title">Preferred numbers pronunciation voice</string>
     <string name="no_preferences">No preferences</string>
