@@ -44,8 +44,8 @@
     <string name="pref_ignore_emoticons_title">Ignore emoticons</string>
     <string name="pref_emoji_voice_title">Emojis pronunciation voice</string>
     <string name="action_refresh_voices_list">Refresh voices list</string>
-    <string name="latinics">Latinics</string>
-    <string name="cyrillics">Cyrillics</string>
+    <string name="latinics">Latin</string>
+    <string name="cyrillics">Cyrillic</string>
     <string name="cjk">East Asian</string>
     <string name="all">All</string>
     <string name="notification_channel_description">The Notification Channel of SmartVoice</string>
